@@ -7,5 +7,6 @@ public class Add {
     int res = a + b;
     System.ot.println("sum of " + a + " and " + b + " is " + res);
     System.ot.println("Commited once ");
+    System.ot.println("Commited twice ");
   }
 }
